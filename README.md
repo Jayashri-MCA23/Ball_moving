@@ -5,4 +5,4 @@ How to run:
      step2:-Install the Live server Extension.
      step3:-After installing the Live Server extension,"Go Live" button at the bottom right corner of the VSCode window.
 Click the "Go Live" button.
-     step4:-A new browser window will open, displaying your Pac-Man animation.
+     step4:-A new browser window will open, displaying your Ball- moving animation.
