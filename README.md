@@ -7,6 +7,7 @@ controlled by JavaScript using the setInterval function with a 500-millisecond i
 ****Steps to run the project:****
 
 Step 1: Save the HTML file with a .html extension.
+
 Step 2: Install the Live Server extension in Visual Studio Code, then click the "Go Live" 
 button at the bottom right corner of the VSCode window to open a new browser window displaying 
 the ball-moving animation.
