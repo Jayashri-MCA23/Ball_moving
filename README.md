@@ -16,7 +16,7 @@
      step4:-A new browser window will open, displaying  Ball- moving animation.
 **Future improvement:**   
 
-      future improvement, consider adding user interaction features like mouse or
+      For future improvement, consider adding user interaction features like mouse or
       keyboard control to change the ball's direction or speed, or adding obstacles
       or targets for the ball to interact with, creating a more engaging and
       interactive animation.
